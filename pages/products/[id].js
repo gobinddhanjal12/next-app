@@ -1,6 +1,5 @@
 import fs from 'fs';
 import path from 'path';
-import "../../styles/productdetail.css";
 
 export async function getStaticPaths() {
     const filePath = path.join(process.cwd(), 'data', 'data.json');
