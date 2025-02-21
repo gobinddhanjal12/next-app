@@ -1,0 +1,97 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sony WH-1000XM5 Wireless Headphones",
+            "price": 29999,
+            "description": "Premium noise-canceling over-ear headphones with Hi-Res audio and 30-hour battery life.",
+            "image": "/images/headphones.jpg",
+            "category": "Audio",
+            "brand": "Sony",
+            "rating": 4.8,
+            "addedDate": "21-02-2025"
+        },
+        {
+            "id": 2,
+            "name": "Apple iPhone 15 Pro",
+            "price": 134900,
+            "description": "Latest flagship iPhone with A17 Pro chip, 48MP camera, and titanium design.",
+            "image": "/images/smartphone.jpg",
+            "category": "Smartphone",
+            "brand": "Apple",
+            "rating": 4.9,
+            "addedDate": "20-02-2025"
+        },
+        {
+            "id": 3,
+            "name": "Dell XPS 15 (2024)",
+            "price": 189999,
+            "description": "High-performance laptop with Intel Core i9, 32GB RAM, 1TB SSD, and 15.6-inch 4K display.",
+            "image": "/images/laptop.jpg",
+            "category": "Laptop",
+            "brand": "Dell",
+            "rating": 4.7,
+            "addedDate": "19-02-2025"
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy Watch 6",
+            "price": 27999,
+            "description": "Advanced smartwatch with AMOLED display, ECG monitoring, and 5-day battery life.",
+            "image": "/images/smartwatch.jpg",
+            "category": "Wearable",
+            "brand": "Samsung",
+            "rating": 4.5,
+            "addedDate": "18-02-2025"
+        },
+        {
+            "id": 5,
+            "name": "Apple iPad Air (5th Gen)",
+            "price": 59999,
+            "description": "Powerful tablet with M1 chip, 10.9-inch Liquid Retina display, and Apple Pencil support.",
+            "image": "/images/tablet.jpg",
+            "category": "Tablet",
+            "brand": "Apple",
+            "rating": 4.6,
+            "addedDate": "17-02-2025"
+        },
+        {
+            "id": 6,
+            "name": "JBL Flip 6 Bluetooth Speaker",
+            "price": 11999,
+            "description": "Portable waterproof speaker with deep bass, 12-hour battery, and PartyBoost feature.",
+            "image": "/images/speaker.jpg",
+            "category": "Audio",
+            "brand": "JBL",
+            "rating": 4.4,
+            "addedDate": "16-02-2025"
+        }
+    ],
+    "about": {
+        "title": "About Indian Tech Store",
+        "description": "We provide the latest tech gadgets at the best prices in India.",
+        "contact": {
+            "email": "support@indiantechstore.com",
+            "phone": "+91 9876543210",
+            "address": "123, Connaught Place, New Delhi, India"
+        }
+    },
+    "employees": [
+        {
+            "id": "1122",
+            "name": "Gobind Singh",
+            "designation": "Software Developer",
+            "department": "Engineering",
+            "email": "gobind@indiantechstore.com",
+            "phone": "+91 9876543210"
+        },
+        {
+            "id": "2233",
+            "name": "Rahul Sharma",
+            "designation": "Product Manager",
+            "department": "Management",
+            "email": "rahul@indiantechstore.com",
+            "phone": "+91 9898989898"
+        }
+    ]
+}
